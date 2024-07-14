@@ -1,0 +1,6 @@
+@reckon_HostAddress = http://localhost:5115
+
+GET {{reckon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
